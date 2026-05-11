@@ -1,4 +1,3 @@
-print("hello")
-print("moin")
-print("test")
-print("neuer test")
+for k in 5:-1:1
+    println(k)
+end
